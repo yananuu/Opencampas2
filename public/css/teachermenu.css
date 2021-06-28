@@ -1,0 +1,46 @@
+/*学校のロゴ写真*/
+#schoollogo{
+    width: 300px;
+    height: 80px;
+}
+
+/*bodyタグ*/
+body{
+   margin-left: 0%;
+   margin-right: 0%;
+}
+
+/*headerクラス*/
+.header{
+    display:flex;
+    list-style-type: none;
+    /* text-align: right; */
+}
+
+/*青線*/
+#bar{
+    height: 30px;
+    background-color:#5b9bd5;
+ 
+}
+
+.button{
+    background-color: #5b9bd5;
+    border-radius: 5px;
+    width: 350px;
+    height: 180px;
+    top: 300px;
+    font-size: 30pt;
+    color: #ffffff;
+}
+
+
+#yes{
+    position: fixed;
+    left: 200px;
+}
+
+#no{
+    position: fixed;
+    left: 700px;
+}

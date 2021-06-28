@@ -1,0 +1,52 @@
+input[type=text1]{
+    font-size: 40px;
+    width: 300px;
+    height: 50px;
+  }
+  
+  input[type=text2]{
+    font-size: 40px;
+    width: 300px;
+    height: 50px;
+  }
+  
+  .ukida {
+    position: absolute;
+    top:  465px;
+    left: 750px;
+    background: #ffffff;
+    border: none;
+  }
+  
+  
+  
+  
+  .btn-kakunin {
+  
+    color: #FFF;/*文字・アイコン色*/
+    border-radius: 7px;/*角丸に*/
+    display: inline-block;
+    height: 100x;/*高さ*/
+    width: 200px;/*幅*/
+    text-align: center;/*中身を中央寄せ*/
+    font-size: 50px;/*文字のサイズ*/
+    background: #1da1f3;
+    overflow: hidden;/*はみ出た部分を隠す*/
+    text-decoration:none;/*下線は消す*/
+    margin-top: 65px;
+  }
+  
+  .btn-kakunin .kakunin {
+    text-shadow: 2px 2px 0px #4287d6;
+    font-size: 30px;
+  }
+  
+  .btn-kakunin span {
+    display:inline-block;
+    transition: .5s;
+  }
+  
+  .btn-kakunin:hover span {
+    -webkit-transform: rotateX(360deg);
+    transform: rotateX(360deg);
+  }

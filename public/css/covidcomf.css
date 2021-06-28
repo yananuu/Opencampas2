@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#schoollogo {
+    width: 300px;
+    height: 80px;
+}
+
+#h1 {
+    text-align: center;
+}
+
+#h2 {
+    text-align: center;
+    color:red;
+}
