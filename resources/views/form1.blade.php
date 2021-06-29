@@ -12,7 +12,7 @@
             </div>
         </header>
         <hr id="bar">
-        <p id=hyodai><strong>オープンキャンパス　参加受付</strong></p>
+        <p id=hyodai><strong>オープンキャンパス　参加受付　テストテストテストテストテストテストテストテストテストテストテストテストテスト</strong></p>
 
         <table align="center">
             <tr>
